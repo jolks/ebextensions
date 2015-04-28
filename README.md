@@ -7,7 +7,7 @@ Customizing and Configuring AWS Elastic Beanstalk (EBS) Environments
 * Deploy project to EBS. 
 
 ## sidekiq
-* Tested to be working on Configurations:-
+* Tested to be working on following configurations:-
   1. 64bit Amazon Linux 2015.03 v1.3.1 running Ruby 2.1 (Passenger Standalone).
   2. 64bit Amazon Linux 2015.03 v1.3.0 running Ruby 2.1 (Passenger Standalone).
   3. 64bit Amazon Linux 2014.09 v1.2.0 running Ruby 2.1 (Passenger Standalone).
