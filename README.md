@@ -25,3 +25,4 @@ Customizing and Configuring AWS Elastic Beanstalk (EBS) Environments
   * `packages` key [[3]](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-packages)
   * `container_commands` key [[4]](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-container-commands)
   * `files` key [[5]](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-files)
+  * `commands` key [[6]](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-commands)
