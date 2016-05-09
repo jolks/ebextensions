@@ -19,4 +19,9 @@ Customizing and Configuring AWS Elastic Beanstalk (EBS) Environments
 * Need to set `RAILS_ENV` environment variable which is used in `0003_sidekiq.config`.
 * [Source](https://gist.github.com/gcarrion-gfrmedia/11396682).
 
-
+## Notes
+* `option_settings` key [1](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions-optionsettings.html)
+* Refer from the list of keys at [2](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html)
+  * `packages` key [3](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-packages)
+  * `container_commands` key [4](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-container-commands)
+  * `files` key [5](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html#linux-files)
